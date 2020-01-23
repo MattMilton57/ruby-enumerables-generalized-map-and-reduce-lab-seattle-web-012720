@@ -1,3 +1,3 @@
-def map(num)
+def map(array)
 
 end
